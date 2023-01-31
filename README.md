@@ -1,2 +1,2 @@
 # Pomodoro-Timer
-This is my way of studing. When i sit down to study i use the pomodoro techinque, but i have to keep track of my rounds. So i created this program to make it easier.
+This is my way of studing. When i sit down to study i use the pomodoro techinque, but i have to keep track of my rounds. So i created this program to make it easier. On every successful round you go, a green checkmark will be added under the tomato. If you want just to see this feature make the WORK_MIN to 1 and wait. You can download or just open https://replit.com/@AngelGyu/pomodorotimer#main.py to try the program. 
